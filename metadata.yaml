@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35152'
     url: http://www.gutenberg.org/2009/agents/35152
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31323#The-Demand-and-the-Supply-of-Increased-Efficiency-in-the-Negro-MinistryThe-American-Negro-Aca_
 gutenberg_issued: '2010-02-18'
 gutenberg_type: Text
 identifiers:
